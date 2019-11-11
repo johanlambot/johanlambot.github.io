@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jeep
+title: Spaceship
 social-share: false
 image: /img/spaceship_1.jpg
 tags: [school, 3d]
