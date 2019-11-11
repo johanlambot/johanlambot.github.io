@@ -24,16 +24,18 @@ The final version of the game was realized in 3 months.
 ## Constraints
 - 60FPS had to turn on the PSP with Fresh Engine.
 
+# Videos
+
 [![BLOCS BLOCK PIRATES](https://i.ibb.co/bs8yCN6/https-i-ytimg-com-vi-Fm3l1-Op-Qzy4-hqdefault.jpg)](https://www.youtube.com/watch?v=Fm3l1OpQzy4 "BLOCS BLOCK PIRATES")
 
 
 # Screenshots
 
-![Game 01](/img/bbp_1.jpg)
+![Game 01](/img/bbp_1.png)
 
-![Game 02](/img/bbp_2.jpg)
+![Game 02](/img/bbp_2.png)
 
-![Game 03](/img/bbp_3.jpg)
+![Game 03](/img/bbp_3.png)
 
 ## Level Design
 
