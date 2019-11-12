@@ -15,11 +15,12 @@ After 10 months of development, we released a Beta version of our game.
 
 Moreover, we participated at [Hits Playtime 2015](https://www.hitsplaytime.fr/) contest and we won [the prize of gameplay and community.](https://hitsplaytime.tumblr.com/post/137675303415/eden-project-prix-de-la-communaut%C3%A9-et-du-gameplay)
 
-#Trailer
+# Trailer
 
 [![Eden Project Trailer](https://i.ibb.co/hWmsGFV/https-i-ytimg-com-vi-mw-Ewo-ND5oik-maxresdefault.jpg)](https://www.youtube.com/watch?v=mwEwoND5oik "Eden Project Trailer")
 
-#Screenshots
+# Screenshots
 
 ![Eden Project 1](/img/eden_project_1.jpg)
+
 ![Eden Project 2](/img/eden_project_2.jpg)
