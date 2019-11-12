@@ -3,7 +3,7 @@ layout: post
 title: Blocs Block Pirates
 social-share: false
 image: /img/bbp_char_4.jpg
-tags: [school, game]
+tags: [school, game, solo]
 ---
 
 A game created for the exams during my second year of school.
