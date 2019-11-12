@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sepsis
+title: Eden Project
 social-share: false
 image: /img/eden_project_1.jpg
 tags: [school, game, team]
