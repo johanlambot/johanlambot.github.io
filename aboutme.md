@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, I am Johan Lambot, Gameplay Programmer.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Passionate about video games since my childhood, I started on the PC with Doom, Half-Life, Counter Strike, Halo, ... and also on handheld game console Nintendo with Mario, Zelda, Pokemon, ....
 
-What else do you need?
+Although it is fun to play all these games, I made the choice to look behind the scenes and make my passion my work.
 
-### my history
+I trained programming in video game for 3 years at HEAJ to get my bachelors degree.
+I did one more year at HEAJ and I got a Master 1 degree in specialization in video game with great honor thanks to Eden Project
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Currently, I work at Virtual-Rangers.
+
+You can [email me](mailto:contact@johanlambot.com) or find me on [Linkedin](https://www.linkedin.com/in/johan-lambot-10226842/) if you want to get in touch.
