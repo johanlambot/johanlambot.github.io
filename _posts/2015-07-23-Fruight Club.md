@@ -2,7 +2,7 @@
 layout: post
 title: Fruight Club
 social-share: false
-image: /img/fuightclub_banner.png
+image: /img/vignette/vignette_fuightclub_banner.png
 tags: [game, team]
 ---
 
