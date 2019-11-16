@@ -3,7 +3,7 @@ layout: post
 title: Fruight Club
 social-share: false
 image: /img/fuightclub_banner.png
-tags: [school, game, team]
+tags: [game, team]
 ---
 
 Fruight Club is a game made on Unity during a little jam playable up to 8 players on pc.
