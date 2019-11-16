@@ -2,7 +2,7 @@
 layout: post
 title: Spaceship
 social-share: false
-image: /img/spaceship_1.jpg
+image: /img/vignette/vignette_spaceship_1.jpg
 tags: [school, 3d]
 ---
 
