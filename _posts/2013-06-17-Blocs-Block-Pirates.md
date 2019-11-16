@@ -2,7 +2,7 @@
 layout: post
 title: Blocs Block Pirates
 social-share: false
-image: /img/bbp_char_4.jpg
+image: /img/vignette/vignette_bbp_char_4.jpg
 tags: [school, game, solo]
 ---
 
