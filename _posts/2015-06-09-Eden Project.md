@@ -2,7 +2,7 @@
 layout: post
 title: Eden Project
 social-share: false
-image: /img/eden_project_1.jpg
+image: /img/vignette/vignette_eden_project_1.jpg
 tags: [school, game, team]
 ---
 
