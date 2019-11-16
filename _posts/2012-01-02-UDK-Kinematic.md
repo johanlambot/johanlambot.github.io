@@ -2,6 +2,7 @@
 layout: post
 title: UDK Kinematic
 social-share: false
+image: /img/udk.jpg
 tags: [school, game engine]
 ---
 
